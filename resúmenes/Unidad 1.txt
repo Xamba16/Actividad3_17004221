@@ -1,0 +1,4 @@
+Unidad 1
+Sistemas Binarios
+esto cómo es matemática, no existe una sola forma de resolver, en este caso para poder resolver el código binario para cada letra de mi nombre y el texto a transcribir, utilicé la tabla de valores posicionales, utilizando los 8 bits que nos indicaron en clase.
+También vimos que los algoritmos y proposiciones, tienen un gran sentido a la hora de programar pues esto nos sirve para organizar y pensar la lógica que va tener nuestro código a crear.

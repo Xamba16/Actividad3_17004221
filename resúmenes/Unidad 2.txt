@@ -1,0 +1,2 @@
+Unidad 2
+Es esta unidad, empezamos a ver datos y operadores para poder empezar a programar, fue un tema bastante extenso muy difícil de absorber todo en una sola sesión, por lo que tomé notas y realice consultas para poder entender ciertos conceptos que no logré a la primera, pero llego a la conclusión es que todo tenemos que aplicarle una lógica, por ejemplo en la tarea en los primero intentos procedí con el ingreso de las fechas pero me permitía ingresar fechas no correctas, por lo que fui modificando hasta poder ponerle un límite.
